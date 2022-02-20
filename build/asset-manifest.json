@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.addd6d28.css",
+    "main.js": "/static/js/main.e8b40acf.js",
+    "static/media/nss_logo.jpg": "/static/media/nss_logo.faeaf80ce9fed9e71ded.jpg",
+    "static/media/about.jpg": "/static/media/about.d69912c41a374e31ab8f.jpg",
+    "static/media/logo.png": "/static/media/logo.9237576a73629fa325a3.png",
+    "index.html": "/index.html",
+    "main.addd6d28.css.map": "/static/css/main.addd6d28.css.map",
+    "main.e8b40acf.js.map": "/static/js/main.e8b40acf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.addd6d28.css",
+    "static/js/main.e8b40acf.js"
+  ]
+}
